@@ -7,11 +7,11 @@ body{
 }
 
 .header{
-  
+  color:olive;
 }
 
 h1{
-  float:left;
+  float:right;
 }
 
 .nav{
@@ -19,17 +19,22 @@ h1{
   background-color:;
 }
 
-ul{
-  
+li{
+  float:left;
 }
 
-sidebar{
-  float:left;
+a{
+  display:block;
+  width:60px;
+}
+.sidebar{
+  float:right;
+  color:olive;
   
 }
 
 .content{
-  background-color:;
+  background-color:forestgreen;
   
   
 }

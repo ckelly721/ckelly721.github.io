@@ -17,9 +17,9 @@ body{
   float:right;
 }
 
-.nav li{
+.nav{
   width:100%;
-  background-color:;
+  background-color:green;
   list-style-type: none;
   padding-right: 20px;
   float:left;
@@ -32,16 +32,16 @@ a{
 
 .sidebar{
   float:right;
-  color:olive;
+  background-color:olive;
   margin:2%;
-  padding:15px;
+  padding:10px;
   
 }
 
 .content{
-  background-color:forestgreen;
-  margin:3%;
-  padding:20px;
+  background-color:blue;
+  margin:2%;
+  padding:10px;
   border-top-style:dashed;
   
   

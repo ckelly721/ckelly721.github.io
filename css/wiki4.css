@@ -14,19 +14,16 @@ h1{
   float:right;
 }
 
-.nav{
+.nav li{
   width:100%;
   background-color:;
-}
-
-li{
+  display: inline;
+  list-style-type: none;
+  padding-right: 20px;
   float:left;
+
 }
 
-a{
-  display:block;
-  width:60px;
-}
 .sidebar{
   float:right;
   color:olive;

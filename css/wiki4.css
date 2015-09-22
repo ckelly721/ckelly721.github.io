@@ -23,7 +23,7 @@ body{
   
 }
 
-li{
+.nav li{
   float:left;
   display:block;
   width:60px;

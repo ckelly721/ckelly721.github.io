@@ -1,5 +1,6 @@
 body{
   background-color:olivedrab;
+  margin:1%;
 }
 
 .wrap{
@@ -7,31 +8,41 @@ body{
 }
 
 .header{
-  color:olive;
+  background-color:olive;
+  margin:3%;
+  padding:20px;
 }
 
-h1{
+.header h1{
   float:right;
 }
 
 .nav li{
   width:100%;
   background-color:;
-  display: inline;
   list-style-type: none;
   padding-right: 20px;
   float:left;
+}
 
+a{
+  display:block;
+  width:60px;
 }
 
 .sidebar{
   float:right;
   color:olive;
+  margin:2%;
+  padding:15px;
   
 }
 
 .content{
   background-color:forestgreen;
+  margin:3%;
+  padding:20px;
+  border-top-style:dashed;
   
   
 }

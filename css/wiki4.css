@@ -15,7 +15,8 @@ h1{
 }
 
 .nav{
-  
+  width:100%;
+  background-color:;
 }
 
 ul{
@@ -24,13 +25,16 @@ ul{
 
 sidebar{
   float:left;
+  
 }
 
 .content{
+  background-color:;
+  
   
 }
 
 p{
-  
+  text-align:center;
 }
 

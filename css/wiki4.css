@@ -4,13 +4,16 @@ body{
 }
 
 .wrap{
-  
+  margin:3%;
 }
 
 .header{
-  
+  background-color:;
 }
 
+.header h1{
+  float:right;
+}
 
 .nav{
  
@@ -27,8 +30,12 @@ body{
 }
 
 .content{
-  margin:3%;
+  margin:4%;
   
+  
+}
+
+.content ul li{
   
 }
 

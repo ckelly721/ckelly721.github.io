@@ -43,7 +43,7 @@ body{
 }
 
 .content ul li{
-  text-align:center;
+  list-style-type: none;
 }
 
 p{

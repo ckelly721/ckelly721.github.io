@@ -4,48 +4,29 @@ body{
 }
 
 .wrap{
-  width:750px;
-  margin:0 auto;
-  background-color:green;
+  
 }
 
 .header{
-  background-color:olive;
-  margin:0 auto;
-  padding:15px;
-  float:right;
+  
 }
 
 
 .nav{
-  width:45%;
-  background-color:green;
-  list-style-type: none;
-  padding-right:0px;
-  
+ 
 }
 
 .nav li{
-  float:left;
-  display:block;
-  width:60px;
+  
 }
 
 .sidebar{
-  float:right;
-  background-color:olive;
-  height:30px;
-  margin:2%;
-  padding:10px;
+  
   
 }
 
 .content{
-  background-color:green;
-  margin:1%;
-  padding:0px;
-  border-top-style:dashed;
-  
+
   
 }
 

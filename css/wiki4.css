@@ -31,15 +31,16 @@ body{
 
 .content{
   margin:4%;
+  border-top-style:dashed;
   
   
 }
 
 .content ul li{
-  
+  text-align:center;
 }
 
 p{
-  text-align:center;
+  
 }
 

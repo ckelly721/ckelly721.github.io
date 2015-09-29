@@ -1,6 +1,6 @@
 body{
-  background-color:#5F9EA0;
-  color:#FFDAB9;
+  background-color:#3d6565;
+  color:#ffead7;
   font-family:"Georgia", serif;
   font-size:16px;
   width:500px;
@@ -9,11 +9,10 @@ body{
 
 h1,h2,h3{
 text-align:center;
-font-weight:bold;
 }
 
 p{
 color:#F0FFF0;
 line-height:1.75;
-word-spacing:10px;
+word-spacing:3px;
 }

@@ -17,7 +17,7 @@ body{
 }
 
 .top-content{
-  
+  float:left;
   
 }
 
@@ -33,4 +33,5 @@ body{
 
 .footer{
   background:#5077BE;
+  float:bottom;
 }

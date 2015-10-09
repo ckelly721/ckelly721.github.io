@@ -29,19 +29,21 @@ li{
 }
 
 .top-content {
-  
+  margin:1%;
+  float:left;
   
 }
 
 .top-content p{
-  float:right;
+  float:left;
   width:350px;
 }
 
 .section{
   float:left;
   display:block;
-  padding-right:1px;
+  padding-right:2px;
+  margin:1%;
   
 }
 

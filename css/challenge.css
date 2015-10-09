@@ -37,11 +37,12 @@ li{
 .top-content p{
   width:350px;
   float:left;
+  padding-left:3px;
 }
 
 .top-content img{
   float:left;
-  padding-right:2px;
+  padding-right:5px;
 }
 
 .section{

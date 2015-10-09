@@ -39,6 +39,11 @@ li{
   
 }
 
+p{
+  width:300px;
+  float:left;
+}
+
 .aside{
   background:#FFE4C4;
   width:200px;

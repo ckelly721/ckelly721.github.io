@@ -30,17 +30,19 @@ li{
 
 .top-content {
   display:block;
+  float:right;
   
 }
 
 .section{
   float:left;
   display:block;
+  padding-right:.5px;
   
 }
 
 p{
-  width:300px;
+  width:250px;
 }
 
 .aside{

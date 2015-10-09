@@ -18,6 +18,8 @@ body{
 
 li{
   list-style-type: none;
+  float:left;
+  padding:5px;
 }
 
 .content{
@@ -31,13 +33,13 @@ li{
 .top-content{
   float:left;
   width:300px;
-  margin:2%;
+  
   
 }
 
 .section{
   float:left;
-  padding:5px;
+  padding:.5px;
   
 }
 

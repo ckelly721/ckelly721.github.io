@@ -12,6 +12,7 @@ body{
 .content{
   background:#00FA9A;
   width:500;
+  float:left;
 
 }
 

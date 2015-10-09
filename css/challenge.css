@@ -29,13 +29,18 @@ li{
 }
 
 .top-content {
-  margin:1%;
-  float:left;
+  margin:1.5%;
+  
   
 }
 
 .top-content p{
   width:350px;
+  float:left;
+}
+
+.top-content img{
+  float:left;
 }
 
 .section{

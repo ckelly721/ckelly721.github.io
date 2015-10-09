@@ -1,5 +1,5 @@
 body{
-  width:600px;
+  width:900px;
   margin:0 auto;
 }
 
@@ -21,9 +21,14 @@ body{
   
 }
 
+.section{
+  float:left;
+}
+
 .aside{
   background:#FFE4C4;
-  width:100px;
+  width:400px;
+  float:left;
 }
 
 .footer{

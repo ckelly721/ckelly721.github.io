@@ -1,2 +1,26 @@
 body{
+  width:800;
+  margin:0 auto;
+}
+
+.header{
+  background:#FFB6C1;
+  
+  
+}
+
+.content{
+  background:#00FA9A;
+  width:500;
+
+}
+
+.top-content{
+  
+  
+}
+
+.aside{
+  background:#FFE4C4;
+  width:300;
 }

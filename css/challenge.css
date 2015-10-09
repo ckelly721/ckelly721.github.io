@@ -30,8 +30,11 @@ li{
 
 .top-content {
   display:block;
-  float:right;
   
+}
+
+.top-content p{
+  float:right;
 }
 
 .section{
@@ -43,6 +46,7 @@ li{
 
 p{
   width:250px;
+  float:left;
 }
 
 .aside{

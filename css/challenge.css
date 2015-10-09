@@ -6,6 +6,7 @@ body{
 .header{
   background:#FFB6C1;
   margin:2%;
+  width:900px;
   
 }
 
@@ -13,7 +14,6 @@ body{
   display: inline;
   list-style-type: none;
   padding: 5px;
-  float:top;
 }
 
 li{
@@ -38,7 +38,7 @@ li{
 .section{
   float:left;
   padding:5px;
-  margin:3%;
+  
 }
 
 .aside{

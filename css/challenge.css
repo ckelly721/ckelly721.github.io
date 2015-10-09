@@ -20,7 +20,8 @@ li{
 
 .content{
   background:#00FA9A;
-  width:500px;
+  width:600px;
+  height:700px;
   float:left;
 
 }
@@ -36,8 +37,8 @@ li{
 
 .aside{
   background:#FFE4C4;
-  width:400px;
-  height:500px;
+  width:200px;
+  height:700px;
   float:left;
 }
 

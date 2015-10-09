@@ -5,13 +5,12 @@ body{
 
 .header{
   background:#FFB6C1;
-  margin:2%;
-  width:900px;
   
 }
 
 nav{
-  float:top;
+  float:left;
+  padding:2px;
 }
 
 .header li{
@@ -35,12 +34,14 @@ li{
 
 .top-content p{
   float:left;
+  margin:.5%;
   
 }
 
 .section{
   float:left;
   padding:0 auto;
+  display:inline;
   
 }
 

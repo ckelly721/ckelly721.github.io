@@ -6,13 +6,16 @@ body{
 .header{
   background:#FFB6C1;
   
-  
 }
 
-li{
+.header li{
   display: inline;
   list-style-type: none;
   padding: 5px;
+}
+
+li{
+  list-style-type: none;
 }
 
 .content{
@@ -36,6 +39,8 @@ li{
   width:400px;
   float:left;
 }
+
+
 
 .footer{
   background:#5077BE;

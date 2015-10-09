@@ -29,19 +29,19 @@ li{
 }
 
 .top-content {
-  display:block;
+  
   
 }
 
 .top-content p{
   float:right;
-  width:300px;
+  width:350px;
 }
 
 .section{
   float:left;
   display:block;
-  padding-right:.5px;
+  padding-right:1px;
   
 }
 

@@ -1,5 +1,5 @@
 body{
-  width:800;
+  width:600px;
   margin:0 auto;
 }
 
@@ -11,7 +11,7 @@ body{
 
 .content{
   background:#00FA9A;
-  width:500;
+  width:500px;
   float:left;
 
 }
@@ -23,7 +23,7 @@ body{
 
 .aside{
   background:#FFE4C4;
-  width:300;
+  width:100px;
 }
 
 .footer{

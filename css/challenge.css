@@ -9,6 +9,12 @@ body{
   
 }
 
+li{
+  display: inline;
+  list-style-type: none;
+  padding: 5px;
+}
+
 .content{
   background:#00FA9A;
   width:500px;

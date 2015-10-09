@@ -10,10 +10,14 @@ body{
   
 }
 
+nav{
+  float:top;
+}
+
 .header li{
   display: inline;
   list-style-type: none;
-  padding: 5px;
+  padding:5px;
 }
 
 li{
@@ -29,10 +33,8 @@ li{
 
 }
 
-.top-content{
-  float:top;
-  width:300px;
-  
+.top-content p{
+  float:left;
   
 }
 

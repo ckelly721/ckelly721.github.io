@@ -28,13 +28,14 @@ li{
 
 }
 
-.top-content p{
-  float:left;
+.top-content {
+  display:block;
   
 }
 
 .section{
   float:left;
+  display:block;
   
 }
 

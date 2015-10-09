@@ -30,6 +30,8 @@ li{
 
 .top-content{
   float:left;
+  width:300px;
+  margin:2%;
   
 }
 
@@ -44,6 +46,7 @@ li{
   width:200px;
   height:700px;
   float:left;
+  text-align:center;
 }
 
 .footer{
